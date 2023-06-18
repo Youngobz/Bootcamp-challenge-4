@@ -3,6 +3,8 @@
 
 This project involved creating an interactive online quiz using HTML, CSS, and JavaScript. The purpose of the quiz was to test users' knowledge on a specific topic and provide them with a score based on their answers. I started from scratch and built the code for HTML, CSS, and JavaScript to create the online quiz.
 
+Deployed page can be viewed using the following URL: https://youngobz.github.io/Bootcamp-challenge-4/
+
 HTML Structure
 The HTML code consisted of a container element that enclosed the quiz sections, including the quiz questions, choices, and feedback screens. It also included elements for displaying the current question, score, and navigation buttons. Each question was represented by a separate section in the HTML structure, and the choices were displayed as buttons within a list.
 [HTML](./Screenshots/image.png)
